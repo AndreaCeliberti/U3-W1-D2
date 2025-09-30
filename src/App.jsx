@@ -12,7 +12,7 @@ function App() {
       <MyNav />
       <Welcome />
 
-      <BooksCard bookTitle="Nome Libro" bookPrice="prezzoLibro" bookGendre="genere" />
+      <BooksCard />
 
       <MyFooter />
     </>
